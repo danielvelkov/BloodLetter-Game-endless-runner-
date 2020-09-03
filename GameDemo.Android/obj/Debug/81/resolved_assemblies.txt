@@ -1,0 +1,14 @@
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\GameDemo.Android.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\Java.Interop.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\Mono.Android.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\MonoGame.Framework.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\mscorlib.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\System.Core.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\System.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\System.Xml.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\System.Xml.Linq.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\System.Net.Http.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\System.Runtime.Serialization.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\System.ServiceModel.Internals.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\OpenTK-1.0.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Debug\81\android\assets\Mono.Security.dll

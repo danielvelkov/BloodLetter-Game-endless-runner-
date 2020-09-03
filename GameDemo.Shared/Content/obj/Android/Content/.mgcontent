@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Android</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/backButton.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/battleaxe-sheet.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/boulder2.png</File>
+    <File>C:/Users/PC/Downloads/ground.png</File>
+    <File>C:/Users/PC/Downloads/sprites/mountainGround.png</File>
+    <File>C:/Users/PC/Downloads/sprites/mountainTile.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/doneButton.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/ducking1.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/dummytexture.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/font.spritefont</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/ghost.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/horse_jump.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/horse_running.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/howToButton.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/leaderboards.jpg</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/parallax-mountain-bg.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/parallax-mountain-foreground-trees.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/parallax-mountain-montain-far.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/parallax-mountain-mountains.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/parallax-mountain-trees.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/Piso.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/playButton.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/quitButton.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/scoresButton.png</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/spritefont.spritefont</File>
+    <File>E:/studentski bs/III kurs/6 semestur/PMU/proekt(was kursova)/BloodLetter/GameDemo.Shared/Content/useful skele.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>ground.png</File>
+    <File>mountainGround.png</File>
+    <File>mountainTile.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>foreground-trees.png</File>
+    <File>montain-far.png</File>
+    <File>mountains.png</File>
+    <File>mountain-trees.png</File>
+    <File>ground1.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

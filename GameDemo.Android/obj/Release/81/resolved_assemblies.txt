@@ -1,0 +1,9 @@
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Release\81\android\assets\GameDemo.Android.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Release\81\android\assets\Java.Interop.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Release\81\android\assets\Mono.Android.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Release\81\android\assets\MonoGame.Framework.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Release\81\android\assets\mscorlib.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Release\81\android\assets\System.Core.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Release\81\android\assets\System.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Release\81\android\assets\System.Runtime.Serialization.dll
+E:\studentski bs\III kurs\6 semestur\PMU\proekt(was kursova)\BloodLetter\GameDemo.Android\obj\Release\81\android\assets\OpenTK-1.0.dll
